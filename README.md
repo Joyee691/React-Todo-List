@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# React Todo List App
+
+> Base on Dev Ed's "Build A ToDo App With React" [Youtube Video](https://youtu.be/pCA4qpQDZD8) 
+
+## Features
+1. Gorgeous UI design
+2. Filtered by 3 different status: "completed", "uncompleted", "all"
+3. Different button and font style for "completed" and "uncompleted"
+4. Use localStorage to store data
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
