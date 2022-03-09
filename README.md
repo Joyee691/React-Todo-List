@@ -1,6 +1,7 @@
 # React Todo List App
 
 > Base on Dev Ed's "Build A ToDo App With React" [Youtube Video](https://youtu.be/pCA4qpQDZD8) 
+> A quick preview: https://joyee691.github.io/React-Todo-List/build/
 
 ## Features
 1. Gorgeous UI design
