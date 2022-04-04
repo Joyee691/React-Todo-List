@@ -9,6 +9,8 @@
 3. Different button and font style for "completed" and "uncompleted"
 4. Use localStorage to store data
 
+---
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
